@@ -1,0 +1,10 @@
+.counter-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .counter-container h2{
+      color: orangered;
+      background-color: white;
+      margin-left: 1.5rem;
+  }
